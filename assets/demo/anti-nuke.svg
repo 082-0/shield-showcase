@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="394" viewBox="0 0 760 394" role="img" aria-label="Shield: ANTI-NUKE TRIGGERED (demo data)">
+<defs>
+  <linearGradient id="s2sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#040307"/><stop offset=".6" stop-color="#0d0817"/><stop offset="1" stop-color="#1a102e"/></linearGradient>
+  <radialGradient id="s2moonGlow"><stop offset="0" stop-color="#cbbcf0" stop-opacity=".22"/><stop offset="1" stop-color="#cbbcf0" stop-opacity="0"/></radialGradient>
+  <radialGradient id="s2moon" cx=".4" cy=".36"><stop offset="0" stop-color="#f1eef6"/><stop offset="1" stop-color="#cfc8de"/></radialGradient>
+  <linearGradient id="s2rule" gradientUnits="userSpaceOnUse" x1="0" x2="1000" y1="0" y2="0"><stop offset="0" stop-color="#7b5cc4" stop-opacity="0"/><stop offset=".5" stop-color="#7b5cc4" stop-opacity=".7"/><stop offset="1" stop-color="#7b5cc4" stop-opacity="0"/></linearGradient>
+  <g id="s2bloom"><path d="M0 0 C-5 -3 -7 -10 -2.8 -14 L0 -12 L2.8 -14 C7 -10 5 -3 0 0Z" transform="rotate(0)" fill="#ddd3ea"/><path d="M0 0 C-5 -3 -7 -10 -2.8 -14 L0 -12 L2.8 -14 C7 -10 5 -3 0 0Z" transform="rotate(72)" fill="#ddd3ea"/><path d="M0 0 C-5 -3 -7 -10 -2.8 -14 L0 -12 L2.8 -14 C7 -10 5 -3 0 0Z" transform="rotate(144)" fill="#ddd3ea"/><path d="M0 0 C-5 -3 -7 -10 -2.8 -14 L0 -12 L2.8 -14 C7 -10 5 -3 0 0Z" transform="rotate(216)" fill="#ddd3ea"/><path d="M0 0 C-5 -3 -7 -10 -2.8 -14 L0 -12 L2.8 -14 C7 -10 5 -3 0 0Z" transform="rotate(288)" fill="#ddd3ea"/><circle r="2.4" fill="#4a3a6a"/></g>
+  <path id="s2loose" d="M0 -6 C4 -5 5 2 0 6 C-5 2 -4 -5 0 -6Z" fill="#cfc3e0"/>
+</defs>
+<style>
+  .fall{transform-box:fill-box;transform-origin:center;animation:fall var(--d) linear infinite;animation-delay:var(--s);opacity:0}
+  @keyframes fall{0%{transform:translate(0,0) rotate(0deg);opacity:0}10%{opacity:.7}85%{opacity:.6}100%{transform:translate(var(--x),var(--y)) rotate(var(--r));opacity:0}}
+  .tw{animation:tw var(--d) ease-in-out infinite;animation-delay:var(--s)}
+  @keyframes tw{0%,100%{opacity:.15}50%{opacity:.75}}
+  @media (prefers-reduced-motion:reduce){.fall,.tw{animation:none}.fall{opacity:.55}}
+</style>
+<rect width="760" height="394" rx="14" fill="#15121c"/>
+<g font-family="'Segoe UI','gg sans','Noto Sans',Arial,sans-serif">
+<circle cx="46" cy="40" r="22" fill="#0d0817" stroke="#271d3a"/><g transform="translate(34 28) rotate(-3)"><rect width="24" height="24" rx="2.4000000000000004" fill="#a3122f"/><rect x="2.16" y="2.16" width="19.68" height="19.68" rx="1.44" fill="none" stroke="#f3dfe3" stroke-opacity=".55" stroke-width="1"/><text x="12" y="17.28" text-anchor="middle" font-family="'Noto Serif JP','Yu Mincho','Hiragino Mincho ProN','MS Mincho',serif" font-weight="700" font-size="14.879999999999999" fill="#f8eef0">守</text></g>
+<text x="92" y="36" fill="#b3a0d8" font-size="16" font-weight="700">Shield</text>
+<rect x="147.1488" y="22" width="34" height="18" rx="4" fill="#5865f2"/><text x="164.1488" y="35" text-anchor="middle" fill="#fff" font-size="10.5" font-weight="700">APP</text>
+<text x="191.1488" y="35" fill="#a49cb8" font-size="12">Today at 21:04</text>
+<rect x="92" y="80" width="644" height="292" rx="10" fill="#201b2a" stroke="#332a44"/>
+<rect x="92" y="80" width="4" height="292" rx="2" fill="#b3a0d8"/>
+<rect x="92" y="44" width="56" height="22" rx="4" fill="#3d3517"/><text x="98" y="60" fill="#f0d27a" font-size="14" font-weight="600">@here</text>
+<text x="112" y="102" fill="#ece8f6" font-size="20" font-weight="800">ANTI-NUKE TRIGGERED</text>
+<path d="M112 118 H716" stroke="#332a44"/>
+<circle cx="116" cy="144" r="2.2" fill="#ece8f6"/><text x="128" y="148" fill="#ece8f6" font-size="14" text-decoration="underline">Actor</text><text x="169.8944" y="148" fill="#ece8f6" font-size="14" xml:space="preserve"> : </text><rect x="181.65439999999998" y="135" width="66.154" height="20" rx="4" fill="#34306a"/><text x="186.65439999999998" y="148" fill="#c9cdfb" font-size="14" font-weight="600">@ashfall</text><text x="251.80839999999998" y="148" fill="#ece8f6" font-size="14" xml:space="preserve"> </text><rect x="255.72839999999997" y="135" width="145.85000000000002" height="20" rx="4" fill="#120f18" stroke="#332a44"/><text x="260.72839999999997" y="147.5" fill="#d9d2ea" font-size="13" font-family="Consolas,'Cascadia Mono',monospace">1201846613094725682</text>
+<circle cx="116" cy="174" r="2.2" fill="#ece8f6"/><text x="128" y="178" fill="#ece8f6" font-size="14" text-decoration="underline">Access</text><text x="177.4656" y="178" fill="#ece8f6" font-size="14" xml:space="preserve"> : Sentinel</text>
+<circle cx="116" cy="204" r="2.2" fill="#ece8f6"/><text x="128" y="208" fill="#ece8f6" font-size="14" text-decoration="underline">Activity</text><text x="185.6192" y="208" fill="#ece8f6" font-size="14" xml:space="preserve"> : deleted 3 channels in 2 seconds</text>
+<path d="M112 226 H716" stroke="#332a44"/>
+<circle cx="116" cy="248" r="2.2" fill="#ece8f6"/><text x="128" y="252" fill="#ece8f6" font-size="14" text-decoration="underline">Punishment</text><text x="204.25600000000003" y="252" fill="#ece8f6" font-size="14" xml:space="preserve"> : 5 roles removed</text>
+<circle cx="116" cy="278" r="2.2" fill="#ece8f6"/><text x="128" y="282" fill="#ece8f6" font-size="14" text-decoration="underline">Emergency</text><text x="200.1792" y="282" fill="#ece8f6" font-size="14" xml:space="preserve"> : Manage Channels removed from 1 shared role</text>
+<circle cx="116" cy="308" r="2.2" fill="#ece8f6"/><text x="128" y="312" fill="#ece8f6" font-size="14" text-decoration="underline">Result</text><text x="173.9712" y="312" fill="#ece8f6" font-size="14" xml:space="preserve"> : contained</text>
+<rect x="112" y="328" width="202.32" height="22" rx="4" fill="#120f18"/><text x="120" y="343" fill="#a49cb8" font-size="12">Saturday, 31 October 2026 21:04</text>
+</g>
+</svg>

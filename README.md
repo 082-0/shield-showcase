@@ -8,7 +8,7 @@
 
 Shield is a private security bot for Discord. It watches every change made to a server, removes the roles of anyone who breaks the rules, throws out bots nobody approved, and keeps banned accounts banned.
 
-**Shield is not public.** To add it to your server, message **`meatforlove`** on Discord.
+**Shield is not public.** To add it to your server, message **`meantforlove`** on Discord.
 
 <img src="assets/night/divider.svg" alt="" width="100%" />
 
@@ -100,7 +100,7 @@ Shield renames the channels you pick:
 
 ## Add Shield <sub>依頼</sub>
 
-Shield is set up by hand for each server. Message **`meatforlove`** on Discord.
+Shield is set up by hand for each server. Message **`meantforlove`** on Discord.
 
 <sub>This repository holds documentation and demo images only. The bot's source code and server data are private. The images use made-up names and IDs.</sub>
 

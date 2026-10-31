@@ -63,18 +63,19 @@ These three work with or without the prefix, with a mention or a user ID.
 
 ## Setup <sub>設定</sub>
 
-`+setup` opens a paged panel. Pick the two log channels, add people to Guard, Sentinel and Operator, lock roles, tune protection, and change the prefix for the whole server or for any single command. Protection stays off until you turn it on.
+`+setup` opens three pages with the supplied banner photos, feature buttons, and Back/Next controls. Pick the Shield, Anti-raid and optional Status log channels; add people to Guard, Sentinel and Operator; lock roles; tune protection; and change the prefix for the whole server or for any command. Protection stays off until you turn it on.
 
 <img src="assets/demo/setup.svg" alt="Demo: Shield setup page 1 with Log Channels, Access, Cold Roles and Protection buttons" width="100%" />
 
 ## Logs <sub>記録</sub>
 
-Shield renames the two channels you pick:
+Shield renames the channels you pick:
 
-<img src="assets/demo/channels.svg" alt="Demo: the two log channels" width="400" />
+<img src="assets/demo/channels.svg" alt="Demo: Shield, Anti-raid and Status log channels" width="400" />
 
-- **Shield logs** get every audit entry and server event in plain text. No pings.
-- **Anti-raid logs** get styled alerts. `@here` only for setting changes, anti-nuke and unverified bots.
+- **Shield logs** get plain, one-line audit entries and server events. No pings.
+- **Anti-raid logs** get styled alerts. `@here` only for settings or channel changes, anti-nuke bursts, and unverified unauthorized bots.
+- **Status logs** get styled online, restart, offline, restored-connection and protection-switch panels. This channel is optional.
 
 <img src="assets/demo/plain-log.svg" alt="Demo: plain-text log entries" width="100%" />
 

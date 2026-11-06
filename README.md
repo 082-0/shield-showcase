@@ -8,7 +8,10 @@
 
 Shield is a private security bot for Discord. It watches every change made to a server, removes the roles of anyone who breaks the rules, throws out bots nobody approved, and keeps banned accounts banned.
 
-**Shield is not public.** To add it to your server, or to use or buy its source code, message **`meantforlove.`** on Discord.
+**ꜱʜɪᴇʟᴅ is not public.** To add it to your server, or to use or buy its source code, message **`meantforlove.`** on Discord.
+
+> ✦ 桜 ꜱʜɪᴇʟᴅ
+> <ins>ᴀɴ ᴀᴜʀᴀ ᴀʀᴏᴜɴᴅ ʏᴏᴜʀ ꜱᴇʀᴠᴇʀ.</ins> Built to stop colliders, nukes and raids before they land.
 
 <img src="assets/night/divider.svg" alt="" width="100%" />
 

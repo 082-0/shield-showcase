@@ -101,6 +101,10 @@ Shield renames the channels you pick:
 - Shield cannot touch the server owner or anyone whose role is above its own.
 - Each server keeps its own settings, lists and Voids. Shield only works in servers its owner approves.
 
+## Updates <sub>更新</sub>
+
+- **2026-11-06** · New emoji pack in Shield's night style. The bot owner and every server owner are always trusted, including bots they add.
+
 ## Add Shield or buy the source <sub>依頼</sub>
 
 Shield is set up by hand for each server. The full source code is also available to use or buy.

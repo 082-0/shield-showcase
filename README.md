@@ -15,7 +15,7 @@ Shield is a private security bot for Discord. It watches every change made to a 
 
 <img src="assets/night/divider.svg" alt="" width="100%" />
 
-## What it stops <sub>防御</sub>
+## 桜 · What it stops
 
 | If someone… | Shield… |
 | --- | --- |
@@ -36,7 +36,7 @@ Shield is a private security bot for Discord. It watches every change made to a 
 
 <img src="assets/demo/anti-bot.svg" alt="Demo: unapproved bot removed, not verified by Discord, inviter's roles removed" width="100%" />
 
-## Access <sub>権限</sub>
+## 桜 · Access
 
 Only the bot owner, the server owner and Operators can use Shield. Each list takes people or roles.
 
@@ -50,7 +50,7 @@ Only the bot owner, the server owner and Operators can use Shield. Each list tak
 
 <img src="assets/demo/access.svg" alt="Demo: all access groups in one list" width="100%" />
 
-## Void <sub>追放</sub>
+## 桜 · Void
 
 A Void is a ban that stays. If someone unbans the account by hand, Shield bans it again. If the account comes back, Shield bans it again. Only `unvoid` clears it.
 
@@ -64,13 +64,13 @@ These three work with or without the prefix, with a mention or a user ID.
 
 <img src="assets/demo/void-list.svg" alt="Demo: Void list with names, IDs, reasons and pages" width="100%" />
 
-## Setup <sub>設定</sub>
+## 桜 · Setup
 
 `+setup` opens three pages with the supplied banner photos, feature buttons, and Back/Next controls. Pick the Shield, Anti-raid and optional Status log channels; add people to Guard, Sentinel and Operator; lock roles; tune protection; and change the prefix for the whole server or for any command. Protection stays off until you turn it on.
 
 <img src="assets/demo/setup.svg" alt="Demo: Shield setup page 1 with Log Channels, Access, Cold Roles and Protection buttons" width="100%" />
 
-## Logs <sub>記録</sub>
+## 桜 · Logs
 
 Shield renames the channels you pick:
 
@@ -82,7 +82,7 @@ Shield renames the channels you pick:
 
 <img src="assets/demo/plain-log.svg" alt="Demo: plain-text log entries" width="100%" />
 
-## Commands <sub>コマンド</sub>
+## 桜 · Commands
 
 | Command | Who |
 | --- | --- |
@@ -94,18 +94,18 @@ Shield renames the channels you pick:
 | `+protection` · `+emergency` | Status: Operators. Changes: owner |
 | `+help` · `+ping` · `+status` · `+support` | Operators |
 
-## Limits <sub>制限</sub>
+## 桜 · Limits
 
 - Discord does not show bots IP addresses, so there are no IP bans. Void works by account.
 - Shield reacts after Discord reports an action. It cannot bring back a deleted channel.
 - Shield cannot touch the server owner or anyone whose role is above its own.
 - Each server keeps its own settings, lists and Voids. Shield only works in servers its owner approves.
 
-## Updates <sub>更新</sub>
+## 桜 · Updates
 
 - **2026-11-06** · New emoji pack in Shield's night style. The bot owner and every server owner are always trusted, including bots they add.
 
-## Add Shield or buy the source <sub>依頼</sub>
+## 桜 · Add Shield or buy the source
 
 Shield is set up by hand for each server. The full source code is also available to use or buy.
 

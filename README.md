@@ -8,7 +8,7 @@
 
 Shield is a private security bot for Discord. It watches every change made to a server, removes the roles of anyone who breaks the rules, throws out bots nobody approved, and keeps banned accounts banned.
 
-**Shield is not public.** To add it to your server, message **`meantforlove`** on Discord.
+**Shield is not public.** To add it to your server, or to use or buy its source code, message **`meantforlove.`** on Discord.
 
 <img src="assets/night/divider.svg" alt="" width="100%" />
 
@@ -98,10 +98,13 @@ Shield renames the channels you pick:
 - Shield cannot touch the server owner or anyone whose role is above its own.
 - Each server keeps its own settings, lists and Voids. Shield only works in servers its owner approves.
 
-## Add Shield <sub>依頼</sub>
+## Add Shield or buy the source <sub>依頼</sub>
 
-Shield is set up by hand for each server. Message **`meantforlove`** on Discord.
+Shield is set up by hand for each server. The full source code is also available to use or buy.
 
-<sub>This repository holds documentation and demo images only. The bot's source code and server data are private. The images use made-up names and IDs.</sub>
+- Discord: **`meantforlove.`**
+- Servers: [discord.gg/xKJvuKThf](https://discord.gg/xKJvuKThf) · [discord.gg/aftermd](https://discord.gg/aftermd)
+
+<sub>This repository holds documentation and demo images only. The source code and server data are private until bought. The images use made-up names and IDs.</sub>
 
 <img src="assets/night/footer.svg" alt="夜に作る · built after dark" width="100%" />
